@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladyslav — Full-Stack JavaScript Developer</h1>
+<h1 align="center">Hi 👋, I'm Full-Stack JavaScript Developer</h1>
 <h3 align="center">React • Next.js • TypeScript • Node.js • MongoDB </br>
 Building modern web apps with clean code & great UX </h3>
 
