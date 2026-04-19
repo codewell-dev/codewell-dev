@@ -1,70 +1,48 @@
-<h1 align="center">Hi 👋, I'm Full-Stack JavaScript Developer</h1>
-<h3 align="center">React • Next.js • TypeScript • Node.js • MongoDB </br>
-Building modern web apps with clean code & great UX </h3>
+# Full Stack Developer | React & Next.js Expert
 
+Building production-ready web applications under the **codewell-dev** brand. [cite_start]I specialize in delivering fast, maintainable software end-to-end — from pixel-perfect interfaces to scalable Node.js APIs and containerized deployments[cite: 2, 6, 18].
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
-</a>
+---
 
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/typescript-3776AB?logo=typescript&logoColor=fff&style=for-the-badge" />
-</a>
+### 🏗️ Technical Stack
 
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/express-%2320232a?logo=express&logoColor=fff&style=for-the-badge" />
-</a>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion [cite: 10] |
+| **Backend** | [cite_start]Node.js, NestJS, Express.js, REST APIs, JWT/OAuth [cite: 11] |
+| **Databases** | [cite_start]MongoDB, PostgreSQL, MySQL, Prisma [cite: 12] |
+| **Infrastructure** | [cite_start]Docker, Docker Compose, GitHub Actions, Linux, Vercel [cite: 13] |
+| **Expertise** | [cite_start]Virtualization (Hyper-V, VMware, SCVMM), Networking (DNS/TCP, OSPF,BGP), SEO [cite: 15, 22, 48] |
 
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/mongodb-4FC08D?logo=mongodb&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/MaterialUI-blue?logo=mui&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/github-%2320232a?logo=github&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/heroku-3776AB?logo=heroku&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/netlify-6DA55F?logo=netlify&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/html5-red?logo=html5&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/css3-blue?logo=css3&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=fff&style=for-the-badge" />
-</a>
-<a style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/Sass-E75480?logo=sass&logoColor=fff&style=for-the-badge" />
-</a>
-  
-</div>
+---
 
+### 🌟 Key Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladyslav_codewell" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vladyslav-koval-795b1038b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vladyslav_codewell" height="30" width="40" /></a>
-</p>
+#### [FORMA](https://next-shop-ih5f.vercel.app/) — [Source](https://github.com/codewell-dev/next-shop)
+* Premium E-commerce storefront built with **Next.js 14** and **Redux Toolkit**.
+* Implemented **RTK Query** for efficient data fetching and global state management.
+* Focus on high-end UI/UX with a custom design system and mobile-first approach.
 
+#### [Pizza House](https://pizza-house-client-ochre.vercel.app/) — [Source](https://github.com/codewell-dev/pizza-house-client)
+* [cite_start]Full-cycle food ordering platform built with **NestJS** and **MongoDB**[cite: 34, 35].
+* [cite_start]Features real-time order management, dynamic product catalog, and cart persistence[cite: 36].
+* [cite_start]Designed for production loads with a mobile-first responsive UI[cite: 38].
 
-                                                                                                        
+#### [codewell-dev Portfolio](https://codewell-dev-portfolio.vercel.app) — [Source](https://github.com/codewell-dev/codewell-dev-portfolio)
+* [cite_start]High-performance portfolio with **95+ Lighthouse scores**[cite: 43].
+* [cite_start]Full SEO stack: **JSON-LD schemas**, hreflang, and multilingual support (EN/PL/UK)[cite: 41, 42].
 
+---
 
+### ⚙️ Engineering Focus
+* [cite_start]**Performance:** Achieving 90+ Lighthouse scores through code splitting and lazy loading[cite: 21].
+* [cite_start]**Scalability:** Containerized deployments using Docker and zero-downtime launches[cite: 23].
+* [cite_start]**Systems:** Deep understanding of server administration (VMware, Hyper-V) and network troubleshooting[cite: 48, 49].
 
+---
+
+### 📫 Reach Out
+* [cite_start]**Web:** [codewell-dev.com](https://codewell-dev.com) [cite: 3]
+* [cite_start]**Email:** [codewelldev@proton.me](mailto:codewelldev@proton.me) [cite: 3]
+
+*Available for freelance contracts, long-term remote roles, and project-based work. Response time: 24–48h[cite: 8, 50].*
